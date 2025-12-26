@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: BurakCompany
-  productName: Planets AR
+  productName: Flags AR
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -163,7 +163,7 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
-    Android: com.BurakCompany.PlanetsAR
+    Android: com.BurakCompany.FlagsAR
   buildNumber:
     Standalone: 0
     VisionOS: 0
@@ -291,7 +291,7 @@ PlayerSettings:
   - m_BuildTarget: 
     m_Icons:
     - serializedVersion: 2
-      m_Icon: {fileID: 2800000, guid: 568b2cc60ed4eae4d9949449cbfde829, type: 3}
+      m_Icon: {fileID: 2800000, guid: d04934e3fb65e7d4499474a0115ce9e3, type: 3}
       m_Width: 128
       m_Height: 128
       m_Kind: 0

@@ -6,29 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/HomeScreen.unity
-    guid: e62145028352aab4c89c959827f127c9
-  - enabled: 1
-    path: Assets/Scenes/Earth.unity
-    guid: 9fc0d4010bbf28b4594072e72b8655ab
-  - enabled: 1
-    path: Assets/Scenes/Mars.unity
-    guid: 4b75a5307b1fcd8418a010ae68693d20
-  - enabled: 1
-    path: Assets/Scenes/Jupiter.unity
-    guid: ca19164c78b773a4c964318aa02c56c5
-  - enabled: 1
-    path: Assets/Scenes/Saturn.unity
-    guid: 0143afb5ca90532439aa0f970ea88131
-  - enabled: 1
-    path: Assets/Scenes/Venus.unity
-    guid: f0a5f49d852ed00498bac825e24f3e35
-  - enabled: 1
-    path: Assets/Scenes/Solar System.unity
-    guid: 6ce3b3e7af70c424db1ba6a8b26636b0
-  - enabled: 1
-    path: Assets/Scenes/Mercury.unity
-    guid: 126d2199ce001234bb943d7d8844d7c9
+    path: Assets/MediaPipeUnity/Samples/Scenes/Hand Landmark Detection/Hand Landmark
+      Detection.unity
+    guid: 98d49dcfe667ea822a91d6b74f7cb2e9
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 873255ac03fd461469a639ea3ca0c7d0, type: 2}
     com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: f5fa0dba32b725e479ac8a0af98341d2, type: 2}
